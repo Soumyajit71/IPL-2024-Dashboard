@@ -1,6 +1,8 @@
 # IPL 2024 Dashboard
 Welcome to the IPL 2024 Dashboard project! This repository contains an interactive and real-time dashboard for the Indian Premier League (IPL) 2024 season,
 providing up-to-date match information, player performances, and other relevant statistics.
+![Dashboard Screenshot](images/IPL-Live_Score.jpg)
+
 ## Features
 - Real-Time Data Integration
   -- Utilized data from Rapid API Hub and Cricbuzz API to ensure the dashboard is consistently updated with accurate, real-time information.
